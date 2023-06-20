@@ -1,0 +1,4 @@
+﻿  huffman.cpp
+C:\Users\Huynh Kha\source\repos\tinhtoandaphuongtien\tinhtoandaphuongtien\huffman.cpp(72,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Huynh Kha\source\repos\tinhtoandaphuongtien\tinhtoandaphuongtien\huffman.cpp(78,46): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  tinhtoandaphuongtien.vcxproj -> C:\Users\Huynh Kha\source\repos\tinhtoandaphuongtien\x64\Debug\tinhtoandaphuongtien.exe

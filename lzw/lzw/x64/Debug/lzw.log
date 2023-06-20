@@ -1,0 +1,4 @@
+﻿  lzw.cpp
+C:\Users\Huynh Kha\source\repos\lzw\lzw\lzw.cpp(38,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Huynh Kha\source\repos\lzw\lzw\lzw.cpp(39,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lzw.vcxproj -> C:\Users\Huynh Kha\source\repos\lzw\x64\Debug\lzw.exe
